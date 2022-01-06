@@ -1,0 +1,58 @@
+div.rounded {
+	background-color: rgb(167, 159, 159);
+	color: rgb(61, 57, 57);
+	font-weight: bold;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	margin: 10px; 
+}  .black-border {
+	border: 5px solid black;
+	border-radius: 10px;
+	text-align: center;
+	margin: 1%;
+}  #green-background {
+	background-color: green;
+}img.photo {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	border-radius: 10px;
+	padding: 5px;
+}main {
+	border-style: dotted;
+	border-radius: 10px;
+	margin: auto;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	text-shadow: 10px;
+}body {
+	border-color:gray;
+	border-style: solid;
+	padding: 5px;
+}aside{
+	padding: 5px;
+}ul{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: gray;
+	border-radius: 10px;
+
+	margin: 10px;
+	padding: 0px;
+}li a {
+	display: block;
+	width: 60px;
+	color:blue;
+	padding: 8px 8px;
+	text-decoration: none;
+}li a:hover{
+	background-color: rgb(5, 5, 5);
+	color:darkgray;
+}li{
+	float: left;
+
+}
+
+
